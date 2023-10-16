@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lorem-ipsum": "^2.0.8",
+    "react-router-dom": "^6.16.0"
+  }
+}
